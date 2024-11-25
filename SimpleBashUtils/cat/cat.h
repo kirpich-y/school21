@@ -18,4 +18,3 @@ int CatNoArgs(int fileDescriptor);
 int IsFileExist(char *filename);
 void PrintFileContent(int argc, char **argv, Options flags);
 Options CatReadFlags(int argc, char *argv[]);
-

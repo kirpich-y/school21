@@ -123,4 +123,3 @@ int IsFileExist(char *filename) {
   }
   return result;
 }
-
